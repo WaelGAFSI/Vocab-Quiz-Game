@@ -23,10 +23,16 @@ This is a simple web-based quiz game to help users learn mechanical engineering 
 ## 📂 Project Structure
 project-root/
 ├── server.js
+
 ├── words.json
+
 ├── scores.json
+
 ├── public/
+
 │ └── index.html
+
 ├── package.json
+
 └── README.md
 
