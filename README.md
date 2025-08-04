@@ -21,3 +21,11 @@ This is a simple web-based quiz game to help users learn mechanical engineering 
 5. Try to beat the top 5 high scores!
 
 ## 📂 Project Structure
+project-root/
+├── server.js
+├── words.json
+├── scores.json
+├── public/
+│ └── index.html
+├── package.json
+└── README.md
