@@ -1,0 +1,367 @@
+[
+  {
+    "word": "Gear",
+    "correct": "Engrenage",
+    "options": ["Engrenage", "Piston", "Pompe"]
+  },
+  {
+    "word": "Shaft",
+    "correct": "Arbre (mécanique)",
+    "options": ["Arbre (mécanique)", "Filetage", "Écrou"]
+  },
+  {
+    "word": "Torque",
+    "correct": "Couple (de rotation)",
+    "options": ["Poulie", "Couple (de rotation)", "Soupape"]
+  },
+  {
+    "word": "Bearing",
+    "correct": "Roulement",
+    "options": ["Rondelle", "Roulement", "Friction"]
+  },
+  {
+    "word": "Spring",
+    "correct": "Ressort",
+    "options": ["Engrenage", "Ressort", "Vis"]
+  },
+  {
+    "word": "Valve",
+    "correct": "Soupape",
+    "options": ["Soupape", "Bielle", "Joint d'étanchéité"]
+  },
+  {
+    "word": "Pulley",
+    "correct": "Poulie",
+    "options": ["Courroie", "Poulie", "Galet"]
+  },
+  {
+    "word": "Cam",
+    "correct": "Came",
+    "options": ["Came", "Manivelle", "Crémaillère"]
+  },
+  {
+    "word": "Clutch",
+    "correct": "Embrayage",
+    "options": ["Disque de frein", "Embrayage", "Accouplement"]
+  },
+  {
+    "word": "Flywheel",
+    "correct": "Volant d'inertie",
+    "options": ["Rotor", "Volant d'inertie", "Plateau tournant"]
+  },
+  {
+    "word": "Gasket",
+    "correct": "Joint d'étanchéité",
+    "options": ["Joint d'étanchéité", "Rondelle", "Bague"]
+  },
+  {
+    "word": "Crankshaft",
+    "correct": "Vilebrequin",
+    "options": ["Arbre à cames", "Vilebrequin", "Arbre de transmission"]
+  },
+  {
+    "word": "Nut",
+    "correct": "Écrou",
+    "options": ["Vis", "Écrou", "Goujon"]
+  },
+  {
+    "word": "Washer",
+    "correct": "Rondelle",
+    "options": ["Rondelle", "Collier", "Clavette"]
+  },
+  {
+    "word": "Bolt",
+    "correct": "Boulon",
+    "options": ["Goujon", "Boulon", "Tige filetée"]
+  },
+  {
+    "word": "Piston",
+    "correct": "Piston",
+    "options": ["Segment", "Piston", "Cylindre"]
+  },
+  {
+    "word": "Hydraulic Pump",
+    "correct": "Pompe hydraulique",
+    "options": ["Compresseur", "Pompe hydraulique", "Turbine"]
+  },
+  {
+    "word": "Chain",
+    "correct": "Chaîne",
+    "options": ["Chaîne", "Câble", "Courroie"]
+  },
+  {
+    "word": "Belt",
+    "correct": "Courroie",
+    "options": ["Courroie", "Câble", "Chaîne"]
+  },
+  {
+    "word": "Gearbox",
+    "correct": "Boîte de vitesses",
+    "options": ["Boîte de vitesses", "Différentiel", "Transmission"]
+  },
+  {
+    "word": "Differential",
+    "correct": "Différentiel",
+    "options": ["Différentiel", "Embrayage", "Réducteur"]
+  },
+  {
+    "word": "Universal Joint",
+    "correct": "Joint homocinétique",
+    "options": ["Cardan", "Joint homocinétique", "Rotule"]
+  },
+  {
+    "word": "Transmission",
+    "correct": "Transmission",
+    "options": ["Boîte de vitesses", "Transmission", "Pont arrière"]
+  },
+  {
+    "word": "Radiator",
+    "correct": "Radiateur",
+    "options": ["Condenseur", "Radiateur", "Échangeur de chaleur"]
+  },
+  {
+    "word": "Exhaust",
+    "correct": "Échappement",
+    "options": ["Collecteur", "Échappement", "Silencieux"]
+  },
+  {
+    "word": "Intake Manifold",
+    "correct": "Collecteur d'admission",
+    "options": ["Collecteur d'admission", "Collecteur d'échappement", "Filtre à air"]
+  },
+  {
+    "word": "Fuel Injector",
+    "correct": "Injecteur",
+    "options": ["Carburateur", "Injecteur", "Pompe à carburant"]
+  },
+  {
+    "word": "Spark Plug",
+    "correct": "Bougie d'allumage",
+    "options": ["Bougie d'allumage", "Bobine d'allumage", "Capteur de cliquetis"]
+  },
+  {
+    "word": "Alternator",
+    "correct": "Alternateur",
+    "options": ["Dynamo", "Alternateur", "Batterie"]
+  },
+  {
+    "word": "Starter Motor",
+    "correct": "Démarreur",
+    "options": ["Démarreur", "Moteur électrique", "Générateur"]
+  },
+  {
+    "word": "Ignition Coil",
+    "correct": "Bobine d'allumage",
+    "options": ["Bobine d'allumage", "Capteur de position", "Module d'allumage"]
+  },
+  {
+    "word": "Fuse",
+    "correct": "Fusible",
+    "options": ["Fusible", "Relais", "Disjoncteur"]
+  },
+  {
+    "word": "Relay",
+    "correct": "Relais",
+    "options": ["Relais", "Contacteur", "Interrupteur"]
+  },
+  {
+    "word": "Circuit Breaker",
+    "correct": "Disjoncteur",
+    "options": ["Disjoncteur", "Fusible", "Relais"]
+  },
+  {
+    "word": "Wiring Harness",
+    "correct": "Faisceau de câbles",
+    "options": ["Faisceau de câbles", "Connecteur", "Câble électrique"]
+  },
+  {
+    "word": "Sensor",
+    "correct": "Capteur",
+    "options": ["Capteur", "Transducteur", "Actionneur"]
+  },
+  {
+    "word": "Actuator",
+    "correct": "Actionneur",
+    "options": ["Actionneur", "Relais", "Contacteur"]
+  },
+  {
+    "word": "Controller",
+    "correct": "Contrôleur",
+    "options": ["Contrôleur", "Module de commande", "Unité de contrôle"]
+  },
+  {
+    "word": "Module",
+    "correct": "Module",
+    "options": ["Module", "Carte électronique", "Circuit intégré"]
+  },
+  {
+    "word": "PCB",
+    "correct": "Carte de circuit imprimé",
+    "options": ["Carte de circuit imprimé", "Plaque de montage", "Circuit intégré"]
+  },
+  {
+    "word": "Transistor",
+    "correct": "Transistor",
+    "options": ["Transistor", "Diode", "Résistance"]
+  },
+  {
+    "word": "Diode",
+    "correct": "Diode",
+    "options": ["Diode", "Transistor", "Condensateur"]
+  },
+  {
+    "word": "Resistor",
+    "correct": "Résistance",
+    "options": ["Résistance", "Inductance", "Capacité"]
+  },
+  {
+    "word": "Capacitor",
+    "correct": "Condensateur",
+    "options": ["Condensateur", "Résistance", "Inductance"]
+  },
+  {
+    "word": "Inductor",
+    "correct": "Inductance",
+    "options": ["Inductance", "Condensateur", "Résistance"]
+  },
+  {
+    "word": "Transformer",
+    "correct": "Transformateur",
+    "options": ["Transformateur", "Redresseur", "Convertisseur"]
+  },
+  {
+    "word": "Rectifier",
+    "correct": "Redresseur",
+    "options": ["Redresseur", "Transformateur", "Convertisseur"]
+  },
+  {
+    "word": "Converter",
+    "correct": "Convertisseur",
+    "options": ["Convertisseur", "Inverter", "Redresseur"]
+  },
+  {
+    "word": "Inverter",
+    "correct": "Onduleur",
+    "options": ["Onduleur", "Convertisseur", "Redresseur"]
+  },
+  {
+    "word": "Power Supply",
+    "correct": "Alimentation électrique",
+    "options": ["Alimentation électrique", "Batterie", "Chargeur"]
+  },
+  {
+    "word": "Battery",
+    "correct": "Batterie",
+    "options": ["Batterie", "Accumulateur", "Condensateur"]
+  },
+  {
+    "word": "Charger",
+    "correct": "Chargeur",
+    "options": ["Chargeur", "Adaptateur", "Convertisseur"]
+  },
+  {
+    "word": "Brake Caliper",
+    "correct": "Étrier de frein",
+    "options": ["Disque de frein", "Étrier de frein", "Plaquette de frein"]
+  },
+  {
+    "word": "Brake Disc",
+    "correct": "Disque de frein",
+    "options": ["Tambour de frein", "Disque de frein", "Mâchoire de frein"]
+  },
+  {
+    "word": "ABS (Anti-lock Braking System)",
+    "correct": "Système de freinage antiblocage",
+    "options": ["Frein à main", "Système de freinage antiblocage", "Frein moteur"]
+  },
+  {
+    "word": "Suspension",
+    "correct": "Suspension",
+    "options": ["Amortisseur", "Suspension", "Ressort"]
+  },
+  {
+    "word": "Shock Absorber",
+    "correct": "Amortisseur",
+    "options": ["Amortisseur", "Ressort", "Bielle"]
+  },
+  {
+    "word": "Steering Rack",
+    "correct": "Crémaillère de direction",
+    "options": ["Crémaillère de direction", "Volant", "Colonne de direction"]
+  },
+  {
+    "word": "Wheel Hub",
+    "correct": "Moyeu de roue",
+    "options": ["Moyeu de roue", "Jante", "Pneu"]
+  },
+  {
+    "word": "Tire",
+    "correct": "Pneu",
+    "options": ["Pneu", "Jante", "Chambre à air"]
+  },
+  {
+    "word": "Axle",
+    "correct": "Essieu",
+    "options": ["Essieu", "Arbre de transmission", "Cardan"]
+  },
+  {
+    "word": "Differential Gear",
+    "correct": "Engrenage différentiel",
+    "options": ["Engrenage différentiel", "Pignon", "Couronne"]
+  },
+  {
+    "word": "CV Joint",
+    "correct": "Joint homocinétique",
+    "options": ["Cardan", "Joint homocinétique", "Rotule"]
+  },
+  {
+    "word": "Sway Bar",
+    "correct": "Barre stabilisatrice",
+    "options": ["Barre stabilisatrice", "Amortisseur", "Ressort"]
+  },
+  {
+    "word": "Fuel Tank",
+    "correct": "Réservoir de carburant",
+    "options": ["Réservoir de carburant", "Pompe à essence", "Filtre à carburant"]
+  },
+  {
+    "word": "Shock Absorber",
+    "correct": "Amortisseur",
+    "options": ["Ressort", "Amortisseur", "Triangle de suspension"]
+  },
+  {
+    "word": "Ball Joint",
+    "correct": "Rotule de suspension",
+    "options": ["Pivot", "Rotule de suspension", "Silentbloc"]
+  },
+  {
+    "word": "Rack and Pinion",
+    "correct": "Crémaillère de direction",
+    "options": ["Bielle", "Crémaillère de direction", "Barre stabilisatrice"]
+  },
+  {
+    "word": "Steering Column",
+    "correct": "Colonne de direction",
+    "options": ["Colonne de direction", "Volant", "Crémaillère"]
+  },
+  {
+    "word": "Ignition Switch",
+    "correct": "Contact d'allumage",
+    "options": ["Contact d'allumage", "Démarreur", "Batterie"]
+  },
+  {
+    "word": "Headlight",
+    "correct": "Phare",
+    "options": ["Phare", "Feu arrière", "Clignotant"]
+  },
+  {
+    "word": "Tail Light",
+    "correct": "Feu arrière",
+    "options": ["Feu arrière", "Phare", "Clignotant"]
+  },
+  {
+    "word": "Turn Signal",
+    "correct": "Clignotant",
+    "options": ["Clignotant", "Phare", "Feu de stop"]
+  }
+]
